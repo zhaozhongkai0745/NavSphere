@@ -918,7 +918,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761131185150_g8uyls6jj",
+          "title": "52pojie",
+          "href": "https://www.52pojie.cn/",
+          "description": "访问 www.52pojie.cn",
+          "icon": "/assets/favicon_1761131177379.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",

@@ -918,16 +918,7 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [
-        {
-          "id": "site_1761131185150_g8uyls6jj",
-          "title": "52pojie",
-          "href": "https://www.52pojie.cn/",
-          "description": "访问 www.52pojie.cn",
-          "icon": "/assets/favicon_1761131177379.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "3",
@@ -982,6 +973,14 @@
               "href": "https://screenshots.pro/",
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1761131185150_g8uyls6jj",
+              "title": "52pojie",
+              "href": "https://www.52pojie.cn/",
+              "description": "访问 www.52pojie.cn",
+              "icon": "/assets/favicon_1761131177379.png",
               "enabled": true
             }
           ],
